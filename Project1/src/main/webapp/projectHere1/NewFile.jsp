@@ -13,6 +13,7 @@
 		<tr>
 			<td>wow 1</td>
 			<td>wow 2</td>
+			<td>wow 3</td>
 		</tr>
 	</table>
 

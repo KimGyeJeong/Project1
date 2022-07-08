@@ -16,10 +16,7 @@
 			<td>wow 3</td>
 			<td>wow 4</td>
 			<td>wow 5</td>
-<<<<<<< HEAD
 			<td>wow 6</td>
-=======
->>>>>>> branch 'master' of https://github.com/KimGyeJeong/Project1.git
 
 		</tr>
 	</table>

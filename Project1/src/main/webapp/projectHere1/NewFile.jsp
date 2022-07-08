@@ -15,6 +15,7 @@
 			<td>wow 2</td>
 			<td>wow 3</td>
 			<td>wow 4</td>
+			<td>wow 5</td>
 		</tr>
 	</table>
 

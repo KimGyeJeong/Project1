@@ -19,6 +19,8 @@
 			<td>wow 6</td>
 			<p>fdsf</p>
 			<p>fdsf</p>
+			
+			<td>테스트 푸시</td>
 
 		</tr>
 	</table>

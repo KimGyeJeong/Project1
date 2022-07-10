@@ -22,7 +22,7 @@
 			<p>fdsf</p>
 			
 			<td>테스트 푸시</td>
-			<a>one more pull request</a>
+			<a>one more pull request2</a>
 
 		</tr>
 	</table>

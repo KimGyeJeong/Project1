@@ -12,17 +12,18 @@
 	<table>
 		<tr>
 			<td>wow 1</td>
-			<td>wow 2</td>
-			<td>wow 3</td>
-			<td>wow 4</td>
-			<td>wow 5</td>
-<<<<<<< HEAD
-			<td>wow 6</td>
-=======
->>>>>>> branch 'master' of https://github.com/KimGyeJeong/Project1.git
+			<p>pull request</p>
+			<p>fdsf</p>
+			<p>fdsf</p>
+			
+			<td>테스트 푸시</td>
+			<a>one more pull request2</a>
+			<a>one more pull request3</a>
+			<a>one more pull request4</a>
 
 		</tr>
 	</table>
 으아아아아악!!!!
+으아아악@
 </body>
 </html>
